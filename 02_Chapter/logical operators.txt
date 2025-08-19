@@ -1,0 +1,25 @@
+Logical operators: and, or, not.
+
+
+OR (or)
+A       B       A or B
+False   False   False
+False   True    True
+True    False   True
+True    True    True
+
+
+
+AND (and)
+A       B       A and B
+False   False   False
+False   True    False
+True    False   False
+True    True    True
+
+
+
+NOT (not)
+A       not A
+False   True
+True    False
